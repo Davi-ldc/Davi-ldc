@@ -1,9 +1,9 @@
 ### Hiiii 👀
 
-- 🔭 I’m currently working with back-and
+- 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning ✨Python✨
 - 👯 I’m looking to collaborate on any project that uses python
-- 🤔 I’m looking for help with nothin👀
+- 🤔 I’m looking for help with nothing👀
 - 💬 Ask me about ✨Python✨
 - 📫 you can reach me sending me a gmail (davilimacarv2536@gmail.com)
 - ⚡ Fun fact: I like python👀👀
@@ -26,8 +26,8 @@
 <!-- redes sociais: !-->
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCMVjD8KStr2y0OK5hJknIog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/davi_lima_d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/WYbtAMRX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/#sent?compose=DmwnWrRlQhldCCMlQSNxpQWsghLvQblWdtdCzfmBPsMxTTkxBStpnxcCxKvtPtXvWjnkdgmwkhVb"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
