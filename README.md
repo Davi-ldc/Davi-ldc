@@ -34,7 +34,6 @@
   
   ##
  
- 
-  ![Snake animation](https://github.com/Davi-ldc)
+  ![Snake animation](https://github.com/Davi-ldc/Davi-ldc/blob/output/github-contribution-grid-snake.svg)
 
 
