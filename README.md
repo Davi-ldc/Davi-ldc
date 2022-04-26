@@ -1,7 +1,7 @@
 ### Hiiii 👀
 
 - 🔭 I’m currently working with back-end
-- 🌱 I’m currently learning ✨JavaScript✨
+- 🌱 I’m currently learning ✨Data Science✨
 - 👯 I’m looking to collaborate on any project that uses python
 - 🤔 I’m looking for help with my wkiscrapper👀 (https://github.com/Davi-ldc/wikiscrapper)
 - 💬 Ask me about ✨Python✨
