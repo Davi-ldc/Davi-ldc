@@ -37,4 +37,7 @@
  
   ![Snake animation](https://github.com/Davi-ldc/Davi-ldc/blob/output/github-contribution-grid-snake.svg)
 
-
+<p align="center"> 
+  Visitor count:<br>
+  <img src="https://profile-counter.glitch.me/Davi-ldc/count.svg" />
+</p>
