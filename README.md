@@ -1,4 +1,5 @@
-### <h1>Hiiii 👀<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'></h1>
+### <h1>Hiiii!<img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'></h1>
+
 
 - 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning ✨Data Science✨
