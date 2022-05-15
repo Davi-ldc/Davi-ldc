@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning ✨Data Science✨
 - 👯 I’m looking to collaborate on any project that uses python
-- 🤔 I’m looking for help with my wkiscrapper👀 (https://github.com/Davi-ldc/wikiscrapper)
+- 🤔 I’m looking for help with my Text Editor👀 (https://github.com/Davi-ldc/Text-Editor)
 - 💬 Ask me about ✨Python✨
 - 📫 you can reach me sending me a gmail (davilimacarv2536@gmail.com)
 - ⚡ Fun fact: I have a site (https://davilinks.com)
