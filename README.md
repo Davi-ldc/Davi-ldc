@@ -49,3 +49,11 @@
   Visitor count:<br>
   <img src="https://profile-counter.glitch.me/Davi-ldc/count.svg" />
 </p>
+
+ 
+ 
+ 
+ 
+ 
+ My text editor:
+ https://drive.google.com/drive/folders/136QmKyuFRttutV7_6bcpmJbXx9F8EYXJ?usp=sharing
