@@ -54,6 +54,19 @@
  
  
  
- 
- My text editor:
- https://drive.google.com/drive/folders/136QmKyuFRttutV7_6bcpmJbXx9F8EYXJ?usp=sharing
+
+
+Certificates:
+
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-d3f426b7-7813-4e39-a702-f8bae717540d.jpg?v=1658855727000">
+     Deep Learning com Python de A a Z - O Curso Completo
+</a>
+
+
+
+<br></br>
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-777c8db5-970e-4e43-809e-9e6558617271.jpg?v=1655752716000">
+     Machine Learning e Data Science com Python de A a Z
+</a>
+
+
