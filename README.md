@@ -65,8 +65,18 @@ Certificates:
 
 
 <br></br>
+
+
 <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-777c8db5-970e-4e43-809e-9e6558617271.jpg?v=1655752716000">
      Machine Learning e Data Science com Python de A a Z
+</a>
+
+
+<br></br>
+
+
+<a href="https://www.udemy.com/certificate/UC-a2938eaf-5830-48e1-8424-b89516bfbc3a/">
+     Aprendizagem por Reforço com Deep Learning, PyTorch e Python
 </a>
 
 
