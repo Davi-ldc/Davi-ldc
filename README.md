@@ -84,3 +84,11 @@ Certificates:
 <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-4038e901-e1d2-4668-b07b-9da13db90bdf.jpg?v=1661279132000">
      Complete A.I. Art Generation Course - Beginner 2 MASTER
 </a>
+
+
+
+<br></br>
+
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-4038e901-e1d2-4668-b07b-9da13db90bdf.jpg?v=1661279132000](https://udemy-certificate.s3.amazonaws.com/image/UC-2be2833d-b10d-400a-8bd8-f248dad2230c.jpg?v=1663019640000)">
+     Generative A.I., from GANs to CLIP, with Python and Pytorch
+</a>
