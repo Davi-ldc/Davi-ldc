@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning ✨Data Science✨
-- 👯 I’m looking to collaborate on any project that uses python
-- 🤔 I’m looking for help with my Text Editor👀 (https://github.com/Davi-ldc/Text-Editor)
+- 👯 I’m looking to collaborate on any project
 - 💬 Ask me about ✨Python✨
 - 📫 you can reach me sending me a gmail (davilimacarv2536@gmail.com)
-- ⚡ Fun fact: I have a site (https://davilinks.com)
+- ⚡ Fun fact: I have a site (https://davilima.vercel.app/)
 
 
  
