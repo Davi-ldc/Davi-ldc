@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working with back-end
-- 🌱 I’m currently learning ✨Data Science✨
+- 🌱 I’m currently learning ✨Three.js✨
 - 👯 I’m looking to collaborate on any project
-- 💬 Ask me about ✨Python✨
+- 💬 Ask me about ✨Python or Three.js✨
 - 📫 you can reach me sending me a gmail (davilimacarv2536@gmail.com)
 - ⚡ Fun fact: I have a site (https://davilima.vercel.app/)
 
