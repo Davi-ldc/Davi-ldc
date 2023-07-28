@@ -8,7 +8,6 @@
 - 📫 you can reach me sending me a gmail (davilimacarv2536@gmail.com)
 - ⚡ Fun fact: I have a site (https://davilima.vercel.app/)
 
-
  
 
 
