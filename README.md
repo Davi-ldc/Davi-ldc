@@ -90,3 +90,9 @@ Certificates:
 <a href="https://www.udemy.com/certificate/UC-2be2833d-b10d-400a-8bd8-f248dad2230c">
      Generative A.I., from GANs to CLIP, with Python and Pytorch
 </a>
+
+<br></br>
+
+<a href="https://www.udemy.com/certificate/UC-9c51d84e-9d6d-4a91-968f-0cd7fdfe85ef/">
+     Three.js Scrollable pages with GSAP
+</a>
