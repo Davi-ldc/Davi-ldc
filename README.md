@@ -96,3 +96,7 @@ Certificates:
 <a href="https://www.udemy.com/certificate/UC-9c51d84e-9d6d-4a91-968f-0cd7fdfe85ef/">
      Three.js Scrollable pages with GSAP
 </a>
+
+<a href="https://threejs-journey.com/certificate/view/23646">
+     Three.js Journey
+</a>
