@@ -56,6 +56,14 @@
 
 Certificates:
 
+<a href="https://threejs-journey.com/certificate/view/23646">
+     Three.js Journey
+</a>
+
+
+
+<br></br>
+
 <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-d3f426b7-7813-4e39-a702-f8bae717540d.jpg?v=1658855727000">
      Deep Learning com Python de A a Z - O Curso Completo
 </a>
