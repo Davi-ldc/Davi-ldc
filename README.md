@@ -15,7 +15,7 @@
 <!-- status: !-->
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='40px' height='40px'> My Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davi-ldc&theme=dark&v=1)](https://github.com/Davi-ldc)
+[![GitHub Streak](https://github-readme-streak-stats-dun-alpha.vercel.app?user=Davi-Ldc&theme=dark)](https://git.io/streak-stats)
 <a href="https://github.com/Davi-ldc">
 <img src="https://github-readme-stats.vercel.app/api?username=Davi-ldc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-ldc&layout=compact&langs_count=7&theme=dark"/>
