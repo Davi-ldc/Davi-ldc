@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working with back-end
-- 🌱 I’m currently learning ✨Three.js✨
+- 🌱 I’m currently learning ✨C++✨
 - 👯 I’m looking to collaborate on any project
-- 💬 Ask me about ✨Python or Three.js✨
-- 📫 you can reach me sending me a gmail (davilimacarv2536@gmail.com)
-- ⚡ Fun fact: I have a site (https://davilima.vercel.app/)
+- 💬 Ask me about ✨anything related to coding✨
+- 📫 you can reach me sending me a gmail (davilimacarv@gmail.com)
+- ⚡ Fun fact: I like design and photography :)
 
  
 
