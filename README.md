@@ -1,16 +1,11 @@
 ### <h1>Hiiii!<img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px" height='40px'><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'></h1>
 
-
 - 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning ✨C++✨
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about ✨anything related to coding✨
 - 📫 you can reach me sending me a gmail (davilimacarv@gmail.com)
 - ⚡ Fun fact: I like design and photography :)
-
- 
-
-
 
 <!-- status: !-->
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='40px' height='40px'> My Github Stats:
@@ -53,64 +48,3 @@
   Visitor count:<br>
   <img src="https://profile-counter.glitch.me/Davi-ldc/count.svg" />
 </p>
-
- 
- 
- 
- 
-
-
-Certificates:
-
-<a href="https://threejs-journey.com/certificate/view/23646">
-     Three.js Journey
-</a>
-
-
-
-<br></br>
-
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-d3f426b7-7813-4e39-a702-f8bae717540d.jpg?v=1658855727000">
-     Deep Learning com Python de A a Z - O Curso Completo
-</a>
-
-
-
-<br></br>
-
-
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-777c8db5-970e-4e43-809e-9e6558617271.jpg?v=1655752716000">
-     Machine Learning e Data Science com Python de A a Z
-</a>
-
-
-<br></br>
-
-
-<a href="https://www.udemy.com/certificate/UC-a2938eaf-5830-48e1-8424-b89516bfbc3a/">
-     Aprendizagem por Reforço com Deep Learning, PyTorch e Python
-</a>
-
-<br></br>
-
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-4038e901-e1d2-4668-b07b-9da13db90bdf.jpg?v=1661279132000">
-     Complete A.I. Art Generation Course - Beginner 2 MASTER
-</a>
-
-
-
-<br></br>
-
-<a href="https://www.udemy.com/certificate/UC-2be2833d-b10d-400a-8bd8-f248dad2230c">
-     Generative A.I., from GANs to CLIP, with Python and Pytorch
-</a>
-
-<br></br>
-
-<a href="https://www.udemy.com/certificate/UC-9c51d84e-9d6d-4a91-968f-0cd7fdfe85ef/">
-     Three.js Scrollable pages with GSAP
-</a>
-
-<a href="https://threejs-journey.com/certificate/view/23646">
-     Three.js Journey
-</a>
