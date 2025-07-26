@@ -45,6 +45,5 @@
 </picture>
 
 <p align="center"> 
-  Visitor count:<br>
-  <img src="https://profile-counter.glitch.me/Davi-ldc/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Davi-ldc&style=for-the-badge&abbreviated=true" alt="gustavosouza123" />
 </p>
